@@ -1,0 +1,16 @@
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\bin\Debug\netcoreapp3.1\OzowConsoleApp.exe
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\bin\Debug\netcoreapp3.1\OzowConsoleApp.deps.json
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\bin\Debug\netcoreapp3.1\OzowConsoleApp.runtimeconfig.json
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\bin\Debug\netcoreapp3.1\OzowConsoleApp.runtimeconfig.dev.json
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\bin\Debug\netcoreapp3.1\OzowConsoleApp.dll
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\bin\Debug\netcoreapp3.1\OzowConsoleApp.pdb
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\bin\Debug\netcoreapp3.1\ComputeLibrary.dll
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\bin\Debug\netcoreapp3.1\ComputeLibrary.pdb
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\obj\Debug\netcoreapp3.1\OzowConsoleApp.csprojAssemblyReference.cache
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\obj\Debug\netcoreapp3.1\OzowConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\obj\Debug\netcoreapp3.1\OzowConsoleApp.AssemblyInfoInputs.cache
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\obj\Debug\netcoreapp3.1\OzowConsoleApp.AssemblyInfo.cs
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\obj\Debug\netcoreapp3.1\OzowConsoleApp.csproj.CopyComplete
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\obj\Debug\netcoreapp3.1\OzowConsoleApp.dll
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\obj\Debug\netcoreapp3.1\OzowConsoleApp.pdb
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\OzowConsoleApp\obj\Debug\netcoreapp3.1\OzowConsoleApp.genruntimeconfig.cache

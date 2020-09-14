@@ -1,0 +1,9 @@
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\ComputeLibrary\bin\Debug\netstandard2.0\ComputeLibrary.deps.json
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\ComputeLibrary\bin\Debug\netstandard2.0\ComputeLibrary.dll
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\ComputeLibrary\bin\Debug\netstandard2.0\ComputeLibrary.pdb
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\ComputeLibrary\obj\Debug\netstandard2.0\ComputeLibrary.csprojAssemblyReference.cache
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\ComputeLibrary\obj\Debug\netstandard2.0\ComputeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\ComputeLibrary\obj\Debug\netstandard2.0\ComputeLibrary.AssemblyInfoInputs.cache
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\ComputeLibrary\obj\Debug\netstandard2.0\ComputeLibrary.AssemblyInfo.cs
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\ComputeLibrary\obj\Debug\netstandard2.0\ComputeLibrary.dll
+C:\Users\gumes3.SOUTH32\source\repos\OzowConsoleApp\ComputeLibrary\obj\Debug\netstandard2.0\ComputeLibrary.pdb

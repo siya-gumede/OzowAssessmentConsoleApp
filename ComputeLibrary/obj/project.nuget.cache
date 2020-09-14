@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LYuF3XBIS+Of6E4+VYpWCIPT57Bd3ogC87vlxFiCCESATbgFHU6i5ZTpvo9qXwFv/7hCFr26aCteV5TZMNcI6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gumes3.SOUTH32\\source\\repos\\OzowConsoleApp\\ComputeLibrary\\ComputeLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gumes3.SOUTH32\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gumes3.SOUTH32\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
