@@ -13,21 +13,20 @@ namespace OzowConsoleApp
            
             Console.WriteLine(input.ToLower().LettersOnly().OrderLetters());
 
-            //Inial board but can configure anyboard as 2D array 
+            //Initial board but can configure anyboard as 2D array 
             int[,] block = { { 0, 0, 0, 0,0 }, { 0, 0, 1, 0, 0}, { 0, 0, 1, 0, 0}, { 0, 0, 1, 0,0 } , { 0, 0, 0, 0, 0 } };
             GameOfLife gof = new GameOfLife(block);
 
             //Number of generations can be added as arguments or read from file. 
-
             int numberOfgen = 10;
-            //number of generations
+            
             for( int gen =1; gen < numberOfgen; gen++)
             {     
                    printGameOFLife(gof.getBoard());
                    gof.nextGen();
             }
-
         }
+
         public static void printGameOFLife(int [,] board)
         {
             for (int i = 0; i < board.Length/ board.GetLength(0); i++) { 

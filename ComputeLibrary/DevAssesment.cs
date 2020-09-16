@@ -52,12 +52,14 @@ namespace ComputeLibrary
         //Check for the next generation 
         public bool shouldLive(int x,int y)
         {
-            int neighboursAlive = 0;
+            int neighboursAlive = 0; 
 
+
+            //iterating from y -1 to y + 1 and x - 1 to x + 1 could've been loops except out of bounds indexes and index [x,y]
             if(x-1 >=0 && y - 1 >= 0)
             {
                 neighboursAlive += _cacheboard[x -1, y -1];
-                 neighboursAlive += _cacheboard[x -1, y];
+                neighboursAlive += _cacheboard[x -1, y];
                 neighboursAlive += _cacheboard[x, y - 1];
             }
 
@@ -72,9 +74,10 @@ namespace ComputeLibrary
                 neighboursAlive += _cacheboard[x, y + 1];
                 neighboursAlive += _cacheboard[x + 1, y];
                 }
-            if (_cacheboard[x, y] == 1)
+            if (_cacheboard[x, y] == 1)   //If currently alive
                 return (neighboursAlive == 2 || neighboursAlive == 3) ? true : false;
 
+            //Else assume dead
                 return ( neighboursAlive == 3) ? true : false;
         }
         public void setAlive(int x, int y) { _board[x, y] = 1; }
@@ -99,7 +102,6 @@ namespace ComputeLibrary
                         setAlive(i, j);
                     else setADead(i, j);                  
         
-
         updateCache();
         }
 
