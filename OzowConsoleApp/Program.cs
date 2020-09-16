@@ -7,19 +7,28 @@ namespace OzowConsoleApp
     {
         static void Main(string[] args)
         {
+            
+            string input;
 
+            Console.WriteLine("Enter text to sort: ");
+ 
+            input = Console.ReadLine();
             //String assessment 
-            string input = "Contrary to popular belief, the pink unicorn flies east.";
-           
             Console.WriteLine(input.ToLower().LettersOnly().OrderLetters());
+
+
+            //Number of generations of the given initial life 
+            //I wont have time to implement a grid so that a user can select initial life 
+             
+            Console.WriteLine("Enter number of generations: ");
+            int numberOfgen;
+            // Converted string to int 
+            numberOfgen = Convert.ToInt32(Console.ReadLine());
 
             //Initial board but can configure anyboard as 2D array 
             int[,] block = { { 0, 0, 0, 0,0 }, { 0, 0, 1, 0, 0}, { 0, 0, 1, 0, 0}, { 0, 0, 1, 0,0 } , { 0, 0, 0, 0, 0 } };
             GameOfLife gof = new GameOfLife(block);
 
-            //Number of generations can be added as arguments or read from file. 
-            int numberOfgen = 10;
-            
             for( int gen =1; gen < numberOfgen; gen++)
             {     
                    printGameOFLife(gof.getBoard());
